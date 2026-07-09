@@ -38,12 +38,12 @@ Here is a list of existing scenarios. When they are platform-specific, it will b
 > Killing a player will drop a randomly Enchanted Book
 
 ### Super Heroes
-> Every member of the team will receive a random super power in :
-> **Strength I**
-> **Speed I**
-> **Resistance II**
-> **Jump Boost IV + Speed I + Fire Resistance + Saturation + NoFall**
-> **Health Boost V**
+> Every member of the team will receive a random super power in : <br>
+> **Strength I** <br>
+> **Speed I** <br>
+> **Resistance II** <br>
+> **Jump Boost IV + Speed I + Fire Resistance + Saturation + NoFall** <br>
+> **Health Boost V** <br>
 
 ### Kings
 > At the begining of the game, all players will be able to vote for a King in their own team. The king will obtain the following :
