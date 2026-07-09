@@ -46,10 +46,15 @@ Here is a list of existing scenarios. When they are platform-specific, it will b
 > **Health Boost V** <br>
 
 ### Kings
-> At the begining of the game, all players will be able to vote for a King in their own team. The king will obtain the following :
-> **Speed I**
-> **Strength I**
-> **Resistance I**
-> **Health Boost II**
-> **Haste II**
+> At the begining of the game, all players will be able to vote for a King in their own team. The king will obtain the following : <br>
+> **Speed I** <br>
+> **Strength I** <br>
+> **Resistance I** <br>
+> **Health Boost II** <br>
+> **Haste II** <br>
 > If the King dies, all the team members suffer from Poison II effects for 90 seconds.
+
+### Wheel of Fortune
+> Every X minutes, a random player will be selected to receive a random bonus or malus. The bonus / malus will be broadcasted in the chat.
+
+
